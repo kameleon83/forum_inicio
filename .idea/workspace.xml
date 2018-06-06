@@ -6,7 +6,42 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f724e23-aa3d-497e-9bb6-a99a08a368e5" name="Default" comment="" />
+    <list default="true" id="5f724e23-aa3d-497e-9bb6-a99a08a368e5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/com/olprog/forum/controllers/CategorieController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/com/olprog/forum/dao/CategorieDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/com/olprog/forum/dao/MessageDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/com/olprog/forum/dao/SujetDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/com/olprog/forum/dao/UtilisateurDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/com/olprog/forum/entities/CategorieEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/com/olprog/forum/entities/MessageEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/com/olprog/forum/entities/SujetEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/com/olprog/forum/entities/UtilisateurEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/classmate-1.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/hibernate-core-5.2.17.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/jandex-2.0.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/javassist-3.22.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/tomcat-annotations-api-9.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/WEB-INF/lib/tomcat-embed-core-9.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/static/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/views/categorie/getForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/views/categorie/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/forum_war_exploded/views/categorie/read.jsp" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,7 +131,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CategorieDAO.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CategorieDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/olprog/forum/dao/CategorieDAO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -104,6 +139,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -175,6 +219,9 @@
       <replace>sujetEntity</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -195,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/olprog/forum/entities/CategorieEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/olprog/forum/controllers/CategorieController.java" />
         <option value="$PROJECT_DIR$/web/views/categorie/getForm.jsp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -226,6 +274,7 @@
     <option name="width" value="1144" />
     <option name="height" value="734" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -505,12 +554,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528198928284</updated>
       <workItem from="1528198931930" duration="11028000" />
-      <workItem from="1528269731854" duration="16248000" />
+      <workItem from="1528269731854" duration="16693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27276000" />
+    <option name="totallyTimeSpent" value="27721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -534,9 +583,9 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295129" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.38538682" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295129" />
       <window_info id="Persistence" order="2" sideWeight="0.504298" side_tool="true" weight="0.215625" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.495702" visible="true" weight="0.215625" />
       <window_info anchor="bottom" id="Problems" />
@@ -555,6 +604,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -914,6 +989,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
         </state>
       </provider>
     </entry>
